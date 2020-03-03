@@ -30,7 +30,7 @@ I'm always looking for students supporting me with my research. Some currently a
 
 Research Topics
 ======
-Based on these general interests, I’m working in four main fields: [Video Activity Recognition](#var), [3D Human Pose Estimation](#3dhpe), [Continual Learning](#cl) and [Face Expression Recognition](#fer). I try to develop and apply deep learning methods in order to tackle those tasks. You can find more information about the fields below. 
+Based on these general interests, I’m working in four main fields: [Video Activity Recognition](#var), [3D Human Pose Estimation](#3dhpe), [Continual Learning](#cl) and [Face Expression Recognition](#er). I try to develop and apply deep learning methods in order to tackle those tasks. You can find more information about the fields below. 
 {: .text-justify}
 
 **Ad**: You are a student in Computer Science, Mathematics, Physics or other related fields looking for a research topic for your thesis? You are motivated to work on challenging and interesting tasks? Feel free to contact me.
