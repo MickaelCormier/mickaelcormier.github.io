@@ -42,13 +42,13 @@ Based on these general interests, I’m working in four main fields: [Video Acti
 Action recognition in surveillance video footage is an important research topic in the computer vision community, due to the importance of its applications. Surveillance cameras are increasingly used; however, the monitoring capacity of law enforcement agencies can’t keep up with the huge amount of data being produced. Therefore, automatic or computer assisted surveillance plays a key role for security in public areas such as market places, shops, airports, etc. However, the task of tracking, understanding and reacting to what is happening in long video sequence is really challenging.
 
 In my work, I focus on two main aspects: <br />
-→ generation of qualitative annotations for training deep neural networks, using techniques such as Video Description and Captioning, Video Summarization and Generative Adversarial Networks (GAN).
+→ generation of qualitative annotations for training deep neural networks, using techniques such as Video Description and Captioning, Video Summarization and Generative Adversarial Networks (GAN). <br />
 → investigation of Deep Multitask Architectures for Action Recognition in Surveillance Videos using 3D Convolutions, Long Short-Term Memories (LSTM), multiple Frame-Rate Analysis and Graph Neural Networks (GNN).
 
 <a name="3dhpe"></a> 3D Human Pose Estimation
 ------
 Video-based Action Recognition in surveillance videos remains a challenging task, even with large annotated datasets. In order to comprehend a given situation, a human operator will usually focus on specific details such as body part motions. A group of given key points will move specifically together resulting in unique actions. In order to integrate such temporal context and common-sense knowledge into automatic systems, models need to be able to estimate and detect the 2D position of body parts. Moreover, estimating 3D key points over time provides useful information such as the velocity, acceleration ratio and motion direction for a given time period. Here, I focus on two main aspects: <br />
-→ estimatation and detection of the 3D position of body parts in near-real-time. 
+→ estimatation and detection of the 3D position of body parts in near-real-time.  <br />
 → use of 3D human body poses for video action recognition.
 {: .text-justify}
 
