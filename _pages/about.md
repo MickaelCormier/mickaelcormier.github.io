@@ -9,7 +9,7 @@ redirect_from:
 toc: true
 ---
 
-My name is Thomas Golda and I’m a research assistant at the [Karlsruhe Institute of Technology](http://www.kit.edu/english/index.php), working in close cooperation with the [Fraunhofer Institute for Optronics, System Technologies and Image Exploitation IOSB](https://www.iosb.fraunhofer.de/servlet/is/12481/) in Karlsruhe (Germany), which is one of the largest research institutes in the field of image acquisition, processing and analysis in Europe.
+My name is Mickael Cormier and I’m a research assistant at the [Karlsruhe Institute of Technology](http://www.kit.edu/english/index.php), working in close cooperation with the [Fraunhofer Institute for Optronics, System Technologies and Image Exploitation IOSB](https://www.iosb.fraunhofer.de/servlet/is/12481/) in Karlsruhe (Germany), which is one of the largest research institutes in the field of image acquisition, processing and analysis in Europe.
 {: .text-justify}
 
 The focus of my work is centered around the two topics: 
@@ -22,36 +22,48 @@ Open Positions for Students
 ======
 I'm always looking for students supporting me with my research. Some currently available topics are listed below. Topics for thesis or "Hiwi" positions are not limited to those below, so don't hesitate to ask me for other related positions.<br>
 
-→ [Optimization of Human Body Pose Estimation](/files/ba_ma_2018_optimization_of_human_body_pose_estimation.pdf) (Hiwi/BA/MA)<br>
-→ [Crowd Motion and Behavior Analysis](/files/ma_2018_crowd_motion_and_behavior_analysis.pdf) (Hiwi/BA/MA)<br>
-→ [Supporting Student Position for Research on Human and Crowd Analysis](/files/hiwi_position_human_and_crowd_analysis.pdf) (Hiwi)
+→ [3D Human Body Pose Estimation](#) (Hiwi/BA/MA)<br>
+→ [Video-to-Video Translation using Pose as an Intermediate Representation](#) (Hiwi/BA/MA)<br>
+→ [Supporting Student Position for Research on Video Activity Recognition](#) (Hiwi)
 
 ---
 
 Research Topics
 ======
-Based on these general interests, I’m working in three main fields: [anomaly detection](#anomaly), [human pose estimation](#hpe) and [crowd analysis](#crowd). I try to develop and apply machine learning methods in order to tackle all those tasks. You can find more information about the fields below. 
+Based on these general interests, I’m working in four main fields: [Video Activity Recognition](#var), [3D Human Pose Estimation](#3dhpe), [Continual Learning](#cl) and [Face Expression Recognition](#fer). I try to develop and apply deep learning methods in order to tackle those tasks. You can find more information about the fields below. 
 {: .text-justify}
 
-**Tip**: You are a student in Computer Science, Mathematics, Electrical Engineering, Physics or other related fields looking for a research topic for your thesis? You are motivated to work on challenging and interesting tasks? Feel free to contact me.
+**Ad**: You are a student in Computer Science, Mathematics, Physics or other related fields looking for a research topic for your thesis? You are motivated to work on challenging and interesting tasks? Feel free to contact me.
 {: .notice--success}
 
-<a name="anomaly"></a>Anomaly Detection
+<a name="var"></a>Video Activity Recognition
 ------
-<img style='float: right; width: 256px; height: 170px; background-color: #343434; margin-left: 15px; margin-top: 5px;' src='/images/field_anomaly_detection.gif'>
-Anomaly detection is a very important topic in almost all fields. First of all, it is important to know what an anomaly actually is! The task can range from detecting anomalies in circuit designs, to abnormal packages within a network, to salient behavior of a person or group of persons. In my work, I focus on the latter. My main work focuses on applying generative approches like Generative Adversarial Networks (GAN) and analyzing time series using Long Short-Term Memories (LSTM), Recurrent Neural Networks (RNN) and Hidden Markov Models (HMM). 
+
+Action recognition in surveillance video footage is an important research topic in the computer vision community, due to the importance of its applications. Surveillance cameras are increasingly used; however, the monitoring capacity of law enforcement agencies can’t keep up with the huge amount of data being produced. Therefore, automatic or computer assisted surveillance plays a key role for security in public areas such as market places, shops, airports, etc. However, the task of tracking, understanding and reacting to what is happening in long video sequence is really challenging.
+
+In my work, I focus on two main aspects: <br />
+→ generation of qualitative annotations for training deep neural networks, using techniques such as Video Description and Captioning, Video Summarization and Generative Adversarial Networks (GAN).
+→ investigation of Deep Multitask Architectures for Action Recognition in Surveillance Videos using 3D Convolutions, Long Short-Term Memories (LSTM), multiple Frame-Rate Analysis and Graph Neural Networks (GNN).
+
+<a name="3dhpe"></a> 3D Human Pose Estimation
+------
+Video-based Action Recognition in surveillance videos remains a challenging task, even with large annotated datasets. In order to comprehend a given situation, a human operator will usually focus on specific details such as body part motions. A group of given key points will move specifically together resulting in unique actions. In order to integrate such temporal context and common-sense knowledge into automatic systems, models need to be able to estimate and detect the 2D position of body parts. Moreover, estimating 3D key points over time provides useful information such as the velocity, acceleration ratio and motion direction for a given time period. Here, I focus on two main aspects: <br />
+→ estimatation and detection of the 3D position of body parts in near-real-time. 
+→ use of 3D human body poses for video action recognition.
 {: .text-justify}
 
-<a name="hpe"></a>Human Pose Estimation
+
+<a name="cl"></a> Continual Learning
 ------
-Extracting the pose of a person can be useful for different reasons like activity recognition and motion capturing. For example, within the medical field, extracted poses can be used to analyze the movement of limbs of a person rehabilitating from an injury or to detect malfunctions in the human locomotive system. Due to lots of occlusions, the task of robust and reliable human pose estimation for multiple persons gets quite challenging. Furthermore, working with abstract poses allows us to preserve the privacy of a monitored person. My work focuses on using human body poses for abnormal behavior detection. This can range from certain activities that can be clustered as violence, but also tumbling people or people laying on the ground.
+Even the best system for action recognition in surveillance video footage is expected to eventually deliver false alarm or to fail to detect a dangerous situation. To improve such a system’s accuracy over time, it is important to collect and integrate user feedback without disturbing the main use of the system. Not only for system failures but also for successes.
+Therefore, policies need to be defined to automatically retrain and / or fine tune the existing model with newly collected data. To this end, objective criteria need to be defined to constantly evaluate the system’s performance and its robustness to diverse bias factors, which could appear over time with the addition of new data.
 {: .text-justify}
 
-<img src='/images/field_human_pose_estimation.png'>
-
-<a name="crowd"></a>Crowd Analysis
+<a name="er"></a> Emotion Recognition
 ------
-Analyzing how people move (from a macroscopic point of view) and being able to estimate the number of people within a certain area are important and quite challenging tasks. With the increasing number of huge events and people moving around in urban areas, it gets more important to characterize crowded situations. Especially from a security point of view, it would be great to be able to predict how the distribution of people within a certain area will change within a certain time interval. Which region will be very crowded in five minutes? Are there any salient patterns within the movement of the crowd? 
+
+While faces and body expressions alone are insufficient to perform a reverse inference of single image to emotion, we undoubtedly use these visual cues daily to navigate our social world.
+To what extent (and how) can we design models to accurately interpret an emotion or intention from face expression recognition? And to what degree are these visual cues influenced by body pose and context? Which context, personal and cultural believes must be accounted for to avoid unethical bias?
+
 {: .text-justify}
 
-<img src='/images/field_crowd_analysis.png'>

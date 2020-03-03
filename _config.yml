@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Academic Profile"
 title_separator          : "-"
-name                     : &name "Thomas Golda"
+name                     : &name "Mickael Cormier"
 description              : &description "Research assistant at the Karlsruhe Institute of Technology and Fraunhofer Institute for Optronics, System Technologies and Image Exploitation IOSB"
-url                      : https://thomasgolda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mickaelcormier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thomasgolda/thomasgolda.github.io"
+repository               : "MickaelCormier/mickaelcormier.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thomas Golda"
+  name             : "Mickael Cormier"
   avatar           : "https://avatars0.githubusercontent.com/u/4215184?s=460&v=4"
-  bio              : "Master of Science in Computer Science. Full-time nerd. Faible for bad puns."
+  bio              : "M.Sc. in Computer Science. Part-time optimist."
   location         : "Karlsruhe, Germany"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "thomas.golda@kit.edu"
+  email            : "mickael.cormier@iosb.fraunhofer.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,12 +96,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "thomasgolda"
+  github           : "MickaelCormier"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "thomas-golda"
+  linkedin         : "mickaelcormier"
   orcid            : 
   pinterest        :
   soundcloud       :
