@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecturer"
 permalink: /teaching/20200301_lecturer_hska_autonome-systeme-labor
 student: "Karlsruhe University of Applied Science"
-date: Since 2020-03
+date: 2020-03-01
 location: "Karlsruhe, Germany"
 tags: 
   - labor

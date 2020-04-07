@@ -4,7 +4,7 @@ collection: teaching
 type: "Coordinator and Advisor"
 permalink: /teaching/20200401_kit_seminar_image-analysis-and-fusion
 student: "Karlsruhe Institute of Technology"
-date: Since 2020-04
+date: 2020-04-01
 location: "Karlsruhe, Germany"
 tags: 
   - seminar
