@@ -10,8 +10,8 @@ tags:
   - thesis
   - bachelor
   - action recognition
-pdf: ""
-bibtex: "
+pdf:
+bibtex:
 code: 
 data: 
 excerpt: "Video-based activity recognition is a research field of broad interest, particulary in surveillance video for detecting violent actions. While video-based action recognition is a popular topic in academia, annotated data for training deep neural network ..."
