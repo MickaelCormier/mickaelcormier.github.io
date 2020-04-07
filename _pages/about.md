@@ -48,7 +48,7 @@ In my work, I focus on two main aspects: <br />
 <a name="3dhpe"></a> 3D Human Pose Estimation
 ------
 Video-based Action Recognition in surveillance videos remains a challenging task, even with large annotated datasets. In order to comprehend a given situation, a human operator will usually focus on specific details such as body part motions. A group of given key points will move specifically together resulting in unique actions. In order to integrate such temporal context and common-sense knowledge into automatic systems, models need to be able to estimate and detect the 2D position of body parts. Moreover, estimating 3D key points over time provides useful information such as the velocity, acceleration ratio and motion direction for a given time period. Here, I focus on two main aspects: <br />
-→ estimatation and detection of the 3D position of body parts in near-real-time.  <br />
+→ estimation and detection of the 3D position of body parts in near-real-time.  <br />
 → use of 3D human body poses for video action recognition.
 {: .text-justify}
 
