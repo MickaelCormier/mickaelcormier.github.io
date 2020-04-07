@@ -175,6 +175,9 @@ kramdown:
 collections:
   teaching:
     output: true
+    permalink: /:collection/:path/  
+  students:
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -211,6 +214,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false  
+  # _students
+  - scope:
+      path: ""
+      type: students
     values:
       layout: single
       author_profile: true
