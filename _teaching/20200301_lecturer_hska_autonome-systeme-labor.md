@@ -1,10 +1,10 @@
 ---
-title: "Lecturer"
+title: "Autonomous Systems Labor"
 collection: teaching
-type: "Autonomous Systems Labor"
+type: "Lecturer"
 permalink: /teaching/20200301_lecturer_hska_autonome-systeme-labor
 student: "Karlsruhe University of Applied Science"
-date: 2020-03-01
+date: Since 2020-03
 location: "Karlsruhe, Germany"
 tags: 
   - labor
@@ -22,5 +22,5 @@ A realistic software development process is practiced, in which typical tasks fo
 
 The students develop the required systems in self-dependent project teams, with continuous feedback from the supervisors during their work.
 
-
+More here: https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB7107
 {: .text-justify}
