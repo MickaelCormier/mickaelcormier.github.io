@@ -23,6 +23,6 @@ The seminar aims to develop current and innovative methods and applications of i
 
 The seminar is closely linked to the lectures of the Chair of Interactive Realtime Systems (Automatic Visual Inspection and Image Processing, Pattern Recognition, Introduction to Information Fusion, Probabilistic Planning).
 
-More here: https://ies.anthropomatik.kit.edu/lehre_seminar_baf.php
+More here: <a href="https://ies.anthropomatik.kit.edu/lehre_seminar_baf.php" target="_blank">https://ies.anthropomatik.kit.edu/lehre_seminar_baf.php</a>
 
 {: .text-justify}

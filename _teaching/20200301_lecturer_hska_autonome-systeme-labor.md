@@ -22,5 +22,5 @@ A realistic software development process is practiced, in which typical tasks fo
 
 The students develop the required systems in self-dependent project teams, with continuous feedback from the supervisors during their work.
 
-More here: https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB7107
+More here: <a href="https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB7107" target="_blank">https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB7107</a>
 {: .text-justify}
