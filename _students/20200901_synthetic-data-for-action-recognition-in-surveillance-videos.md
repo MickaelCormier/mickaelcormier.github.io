@@ -4,7 +4,7 @@ collection: students
 type: "Bachelor Thesis"
 permalink: /teaching/20200901_synthetic-data-for-action-recognition-in-surveillance-videos
 student: "David Culley"
-date: 2020-09-01
+date:
 location: "Karlsruhe, Germany"
 tags: 
   - thesis
