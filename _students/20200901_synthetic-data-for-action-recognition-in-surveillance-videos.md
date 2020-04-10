@@ -2,7 +2,7 @@
 title: "[WIP] Synthetic Data for Action Recognition in Surveillance Videos"
 collection: students
 type: "Bachelor Thesis"
-permalink: /teaching/20200901_synthetic-data-for-action-recognition-in-surveillance-videos
+permalink: /students/20200901_synthetic-data-for-action-recognition-in-surveillance-videos
 student: "David Culley"
 date: 2020-09-01
 location: "Karlsruhe, Germany"
