@@ -25,6 +25,8 @@ I'm always looking for students supporting me with my research. Some currently a
 → [3D Human Pose Estimation (German)](https://mickaelcormier.github.io/files/opening/20200409_ba_3d-hpe_cormier.pdf) (BA)<br>
 → [Video-to-Video Translation using Pose as an Intermediate Representation (German)](https://mickaelcormier.github.io/files/opening/20200409_ba_v2v_translation_cormier.pdf) (BA/MA)<br>
 → [Group-Level Emotion Recognition (German)](https://mickaelcormier.github.io/files/opening/20200412_ma_ger_cormier.pdf) (MA)<br>
+→ [Internship Web Backend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20200412_praxis_backend_cormier.pdf) (Praxissemester)<br>
+→ [Internship Web Frontend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20200412_praxis_frontend_cormier.pdf) (Praxissemester)<br>
 
 ---
 
