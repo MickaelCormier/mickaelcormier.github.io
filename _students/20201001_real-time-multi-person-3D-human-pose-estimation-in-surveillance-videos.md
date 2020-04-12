@@ -3,7 +3,7 @@ title: "[Open] Real-time Multi-person 3D Human Pose Estimation with a Single
 Camera in Surveillance Videos"
 collection: students
 type: "Bachelor Thesis"
-permalink: /teaching/20201001_real-time-multi-person-3D-human-pose-estimation-in-surveillance-videos
+permalink: /students/20201001_real-time-multi-person-3D-human-pose-estimation-in-surveillance-videos
 student: "Open"
 date: 2020-10-01
 location: "Karlsruhe, Germany"
@@ -23,6 +23,6 @@ Nowadays video footage from surveillance cameras are an important instrument for
 crowds.
 
 
-<a href="https://mickaelcormier.github.io/files/opening/20200409_ba_3d-hpe_cormier.pdf" target="_blank">Read more. (German)</a>
+<a href="https://mickaelcormier.github.io/files/opening/20200409_ba_3d-hpe_cormier.pdf" target="_blank">Read more (German)</a>
 
 {: .text-justify}

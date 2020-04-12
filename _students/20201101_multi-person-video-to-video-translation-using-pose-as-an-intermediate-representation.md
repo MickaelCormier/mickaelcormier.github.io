@@ -2,7 +2,7 @@
 title: "[Open] Multi-person Video-To-Video Translation using Pose as an Intermediate Representation Camera in Surveillance Videos"
 collection: students
 type: "Bachelor Thesis"
-permalink: /teaching/20201101_multi-person-video-to-video-translation-using-pose-as-an-intermediate-representation
+permalink: /students/20201101_multi-person-video-to-video-translation-using-pose-as-an-intermediate-representation
 student: "Open"
 date: 2020-11-01
 location: "Karlsruhe, Germany"
@@ -22,6 +22,6 @@ Nowadays video footage from surveillance cameras are an important instrument for
 Annotated surveillance sequences are rare, which is why training records must be artificially extended.
 
 
-<a href="https://mickaelcormier.github.io/files/opening/20200409_ba_v2v_translation_cormier.pdf" target="_blank">Read more. (German)</a>
+<a href="https://mickaelcormier.github.io/files/opening/20200409_ba_v2v_translation_cormier.pdf" target="_blank">Read more (German)</a>
 
 {: .text-justify}

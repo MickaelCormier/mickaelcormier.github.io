@@ -22,9 +22,9 @@ Open Positions for Students
 ======
 I'm always looking for students supporting me with my research. Some currently available topics are listed below. Topics for thesis or "Hiwi" positions are not limited to those below, so don't hesitate to ask me for other related positions.<br>
 
-→ [3D Human Pose Estimation (German)](https://mickaelcormier.github.io/files/opening/20200409_ba_3d-hpe_cormier.pdf)
- ) (BA)<br>
+→ [3D Human Pose Estimation (German)](https://mickaelcormier.github.io/files/opening/20200409_ba_3d-hpe_cormier.pdf) (BA)<br>
 → [Video-to-Video Translation using Pose as an Intermediate Representation (German)](https://mickaelcormier.github.io/files/opening/20200409_ba_v2v_translation_cormier.pdf) (BA/MA)<br>
+→ [Group-Level Emotion Recognition (German)](https://mickaelcormier.github.io/files/opening/20200412_ma_ger_cormier.pdf) (MA)<br>
 
 ---
 
