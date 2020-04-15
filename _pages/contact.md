@@ -18,7 +18,6 @@ Fraunhoferstraße 1, 76131 Karlsruhe, Germany<br>
 phone: +49 721 6091-634<br>
 email: [mickael.cormier@iosb.fraunhofer.de](mailto:mickael.cormier@iosb.fraunhofer.de)<br>
 
-{% comment %} 
 Address @KIT
 -----
 Mickael Cormier, M. Sc.<br>
@@ -30,5 +29,4 @@ Haid-und-Neu-Straße 7<br>
 76131 Karlsruhe<br>
 phone: +49 721 6091-634<br>
 email: [mickael.cormier@kit.edu](mailto:mickael.cormier@kit.edu)<br>
-http://ies.anthropomatik.kit.edu  
-{% endcomment %} 
+[http://ies.anthropomatik.kit.edu](http://ies.anthropomatik.kit.edu)
