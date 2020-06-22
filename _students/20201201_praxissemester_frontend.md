@@ -1,5 +1,5 @@
 ---
-title: "[Open] Internship Web Frontend / Fullstack Development for a Deep Learning Annotations Tool"
+title: "[Open] Internship Web Frontend - Fullstack Development for a Deep Learning Annotations Tool"
 collection: students
 type: "Praxissemester"
 permalink: /students/20201201_praxissemester_frontend.md

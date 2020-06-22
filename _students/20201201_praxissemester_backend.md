@@ -1,5 +1,5 @@
 ---
-title: "[WIP] Internship Web Backend / Fullstack Development for a Deep Learning Annotations Tool"
+title: "[WIP] Internship Web Backend - Fullstack Development for a Deep Learning Annotations Tool"
 collection: students
 type: "Praxissemester"
 permalink: /students/20201201_praxissemester_backend.md

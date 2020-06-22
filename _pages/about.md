@@ -30,7 +30,7 @@ I'm always looking for students supporting me with my research. Some currently a
 → [Group-Level Emotion Recognition (German)](https://mickaelcormier.github.io/files/opening/20200412_ma_ger_cormier.pdf) (MA)<br>
 → [3D Crowd Pose Estimation from Monocular Videos (German)](https://mickaelcormier.github.io/files/opening/20200622_ma_crowd-3d-hpe_cormier.pdf) (MA)<br>
 → [Robust Real-World Crowd Pose Estimation (German)](https://mickaelcormier.github.io/files/opening/20200622_ma_crowd-hpe_cormier.pdf) (MA)<br>
-→ [Robust Real-World Crowd Pose Tracking (German)](https://mickaelcormier.github.io/files/opening/20200622_ma_crowd-hpe-tracking_cormier) (MA)<br>
+→ [Robust Real-World Crowd Pose Tracking (German)](https://mickaelcormier.github.io/files/opening/20200622_ma_crowd-hpe-tracking_cormier.pdf) (MA)<br>
 
 
 ---

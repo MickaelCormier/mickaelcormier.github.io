@@ -4,7 +4,7 @@ collection: students
 type: "Master Thesis"
 permalink: /students/20210201_crowd-3d-pose-estimation-from-monocular-videos
 student: "Open"
-date: 2021-02-01
+date: 2020-12-01
 location: "Karlsruhe, Germany"
 tags: 
   - thesis
