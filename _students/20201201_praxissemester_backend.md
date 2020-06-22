@@ -1,9 +1,9 @@
 ---
-title: "[Open] Internship Web Backend / Fullstack Development for a Deep Learning Annotations Tool"
+title: "[WIP] Internship Web Backend / Fullstack Development for a Deep Learning Annotations Tool"
 collection: students
 type: "Praxissemester"
 permalink: /students/20201201_praxissemester_backend.md
-student: "Open"
+student: "Mohamad Khazma"
 date: 2020-12-01
 location: "Karlsruhe, Germany"
 tags: 

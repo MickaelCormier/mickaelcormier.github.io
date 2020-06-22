@@ -22,11 +22,16 @@ Open Positions for Students
 ======
 I'm always looking for students supporting me with my research. Some currently available topics are listed below. Topics for thesis or "Hiwi" positions are not limited to those below, so don't hesitate to ask me for other related positions.<br>
 
-→ [3D Human Pose Estimation (German)](https://mickaelcormier.github.io/files/opening/20200409_ba_3d-hpe_cormier.pdf) (BA)<br>
-→ [Video-to-Video Translation using Pose as an Intermediate Representation (German)](https://mickaelcormier.github.io/files/opening/20200409_ba_v2v_translation_cormier.pdf) (BA/MA)<br>
-→ [Group-Level Emotion Recognition (German)](https://mickaelcormier.github.io/files/opening/20200412_ma_ger_cormier.pdf) (MA)<br>
-→ [Internship Web Backend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20200412_praxis_backend_cormier.pdf) (Praxissemester)<br>
 → [Internship Web Frontend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20200412_praxis_frontend_cormier.pdf) (Praxissemester)<br>
+→ [Image and Video Annotation (German)](https://mickaelcormier.github.io/files/opening/20200622_hiwi_annotation_cormier.pdf) (Hiwi)<br>
+→ [Crowd Pose Estimation and Activity Recognition](https://mickaelcormier.github.io/files/opening/20200622_hiwi_crowd-hpe_cormier.pdf) (Hiwi)<br>
+→ [Embedded Deployment of Deep-Learning models on Jetson Plattforms(German)](https://mickaelcormier.github.io/files/opening/20200622_hiwi_jetson_cormier.pdf) (Hiwi)<br>
+→ [3D Human Pose Estimation (German)](https://mickaelcormier.github.io/files/opening/20200409_ba_3d-hpe_cormier.pdf) (BA)<br>
+→ [Group-Level Emotion Recognition (German)](https://mickaelcormier.github.io/files/opening/20200412_ma_ger_cormier.pdf) (MA)<br>
+→ [3D Crowd Pose Estimation from Monocular Videos (German)](https://mickaelcormier.github.io/files/opening/20200622_ma_crowd-3d-hpe_cormier.pdf) (MA)<br>
+→ [Robust Real-World Crowd Pose Estimation (German)](https://mickaelcormier.github.io/files/opening/20200622_ma_crowd-hpe_cormier.pdf) (MA)<br>
+→ [Robust Real-World Crowd Pose Tracking (German)](https://mickaelcormier.github.io/files/opening/20200622_ma_crowd-hpe-tracking_cormier) (MA)<br>
+
 
 ---
 

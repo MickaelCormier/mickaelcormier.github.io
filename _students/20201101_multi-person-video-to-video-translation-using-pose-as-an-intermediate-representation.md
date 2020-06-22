@@ -1,9 +1,9 @@
 ---
-title: "[Open] Multi-person Video-To-Video Translation using Pose as an Intermediate Representation Camera in Surveillance Videos"
+title: "[WIP] Multi-person Video-To-Video Translation using Pose as an Intermediate Representation Camera in Surveillance Videos"
 collection: students
 type: "Bachelor Thesis"
 permalink: /students/20201101_multi-person-video-to-video-translation-using-pose-as-an-intermediate-representation
-student: "Open"
+student: "Houraalsadat Mortazavi"
 date: 2020-11-01
 location: "Karlsruhe, Germany"
 tags: 
