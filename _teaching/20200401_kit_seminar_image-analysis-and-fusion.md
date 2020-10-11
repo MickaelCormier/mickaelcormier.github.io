@@ -14,8 +14,10 @@ pdf:
 bibtex:
 code: 
 data: 
-excerpt: "Current topics from the field of autonomous, reactive and interactive systems (e.g. human-machine interaction, situation analysis) are taken up and system services are specified ..."
+excerpt: "..."
 ---
+
+Since April 2020, I am a coordinator and advisor at Karlsruhe Institute of Technology for the seminar Image Analysis and Fusion.
 
 Image analysis aims to extract information from images in the form of improved images, features or decisions. In many cases an image does not provide enough information to solve the task under the given acquisition conditions; in this case the acquisition and fusion of image series can be helpful. Methods of image evaluation and fusion are used in many fields of application, including industrial quality control, process monitoring, machine vision, traffic control and reconnaissance.
 

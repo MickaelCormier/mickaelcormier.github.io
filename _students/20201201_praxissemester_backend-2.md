@@ -1,16 +1,15 @@
 ---
-title: "[Open] Bachelor Thesis or Internship Web Frontend - Fullstack Development for a Deep Learning Annotations Tool"
+title: "[WIP] Internship Web Backend - Fullstack Development for a Deep Learning Annotations Tool"
 collection: students
 type: "Praxissemester"
-permalink: /students/20201201_praxissemester_frontend.md
-student: "Open"
-date: 2021-03-01
+permalink: /students/20201201_praxissemester_backend.md
+student: "Steven Bruch"
+date: 2021-01-31
 location: "Karlsruhe, Germany"
 tags: 
   - praxissemester
   - annotation
-  - frontend
-  - bachelor
+  - backend
 pdf:
 bibtex:
 code: 
@@ -22,6 +21,6 @@ Annotation is the process of manually defining regions in an image or video and 
 anomaly detection. Scientists use millions of annotations ranging from image captions and bounding boxes to keypoints and pixelwise class annotation. In the research group video-based safety and assistance systems we are developing a web-based deep learning annotations tool to speed up the annotation process with an intuitive UI & design and pre-processing with deep learning methods in order to improve the quality of annotations.
 
 
-<a href="https://mickaelcormier.github.io/files/opening/20200914_praxis_frontend_cormier.pdf" target="_blank">Read more (German)</a>
+<a href="https://mickaelcormier.github.io/files/opening/20200412_praxis_backend_cormier.pdf" target="_blank">Read more (German)</a>
 
 {: .text-justify}
