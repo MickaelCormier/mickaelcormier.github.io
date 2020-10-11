@@ -4,13 +4,13 @@ collection: students
 type: "Bachelor Thesis"
 permalink: /students/20201101_multi-person-video-to-video-translation-using-pose-as-an-intermediate-representation
 student: "Houraalsadat Mortazavi"
-date: 2020-11-01
+date: 2021-02-01
 location: "Karlsruhe, Germany"
 tags: 
   - thesis
   - bachelor
   - human pose estimation
-  - 3D 
+  - GAN 
 pdf:
 bibtex:
 code: 

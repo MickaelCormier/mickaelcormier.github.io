@@ -4,7 +4,7 @@ collection: students
 type: "Master Thesis"
 permalink: /students/20201201_group-level-emotion-recognition
 student: "Open"
-date: 2020-10-01
+date: 2021-02-01
 location: "Karlsruhe, Germany"
 tags: 
   - thesis
