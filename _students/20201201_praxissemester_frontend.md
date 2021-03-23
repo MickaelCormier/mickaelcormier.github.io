@@ -4,7 +4,7 @@ collection: students
 type: "Praxissemester"
 permalink: /students/20201201_praxissemester_frontend
 student: "Open"
-date: 2021-03-01
+date: 2021-07-01
 location: "Karlsruhe, Germany"
 tags: 
   - praxissemester

@@ -4,7 +4,7 @@ collection: students
 type: "Master Thesis"
 permalink: /students/20210201_robust-real-world-crowd-pose-tracking
 student: "Open"
-date: 2021-03-01
+date: 2021-07-01
 location: "Karlsruhe, Germany"
 tags: 
   - thesis

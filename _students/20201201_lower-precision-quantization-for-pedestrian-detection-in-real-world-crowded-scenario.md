@@ -1,5 +1,5 @@
 ---
-title: "Lower Precision Quantization for Pedestrian Detection in Real-World Crowded Scenario"
+title: "[WIP] Lower Precision Quantization for Pedestrian Detection in Real-World Crowded Scenario"
 collection: students
 type: "Bachelor Thesis"
 permalink: /students/20201201_lower-precision-quantization-for-pedestrian-detection-in-real-world-crowded-scenario
