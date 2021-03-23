@@ -2,7 +2,7 @@
 title: "[Open] Bachelor Thesis or Internship Web Backend - Fullstack Development for a Deep Learning Annotations Tool"
 collection: students
 type: "Praxissemester"
-permalink: /students/20210301_praxissemester_backend.md
+permalink: /students/20210301_praxissemester_backend
 student: "Open"
 date: 2021-03-01
 location: "Karlsruhe, Germany"
