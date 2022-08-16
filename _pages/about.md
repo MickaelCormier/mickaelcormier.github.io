@@ -26,10 +26,10 @@ I'm always looking for students supporting me with my research. Some currently a
 <a name="WS2022"></a>  WS2022
 ------
 → [Image and Video Annotation (German)](https://mickaelcormier.github.io/files/opening/20200622_hiwi_annotation_cormier.pdf) (Hiwi)<br>
-→ [Implentation of complex annotation processes in Web Backend (German)](https://mickaelcormier.github.io/files/opening/20220803_ba_ap_cormier.pdf) (BA/MA)<br>
+→ [Implementation of Complex Annotation Processes in Web Backend (German)](https://mickaelcormier.github.io/files/opening/20220803_ba_ap_cormier.pdf) (BA/MA)<br>
 → [Interactive Annotation in Multi-Camera System for 3D Human Pose Estimation (German)](https://mickaelcormier.github.io/files/opening/20220803_ma_multicamera_cormier.pdf) (MA)<br>
-→ [Internship Web Frontend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20220808_hiwi_frontend_cormier.pdf) (Hiwi)<br>
-→ [Internship Web Backend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20220808_hiwi_backend_cormier.pdf) (Hiwi)<br>
+→ [Web Frontend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20220808_hiwi_frontend_cormier.pdf) (Hiwi)<br>
+→ [Web Backend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20220808_hiwi_backend_cormier.pdf) (Hiwi)<br>
 → [Internship Web Frontend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20200914_praxis_frontend_cormier.pdf) (Praxissemester / BA)<br>
 → [Internship Web Backend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20200914_praxis_backend_cormier.pdf) (Praxissemester / BA)<br>
 
