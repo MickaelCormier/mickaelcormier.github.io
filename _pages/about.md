@@ -37,7 +37,7 @@ I'm always looking for students supporting me with my research. Some currently a
 
 Research Topics
 ======
-Based on these general interests, I’m working in four main fields:  [Crowd Pose Estimation](#crowdhpe), [Video Activity Recognition](#var), [Deployment on Nvidia Jetson Embedded GPU](#jetson) and [Deep Learning aided Data Annotation](#antonn). I try to develop and apply deep learning methods in order to tackle those tasks. You can find more information about the fields below. 
+Based on these general interests, I’m working in four main fields:  [Crowd Pose Estimation](#crowdhpe), [Video Activity Recognition](#var) and [Deep Learning aided Data Annotation](#antonn). I try to develop and apply deep learning methods in order to tackle those tasks. You can find more information about the fields below. 
 {: .text-justify}
 
 **Ad**: You are a student in Computer Science, Mathematics, Physics or other related fields looking for a research topic for your thesis? You are motivated to work on challenging and interesting tasks? Feel free to contact me.
@@ -60,11 +60,13 @@ In my work, I focus on two main aspects: <br />
 → generation of qualitative annotations for training deep neural networks, using techniques such as Video Description and Captioning, Video Summarization and Generative Adversarial Networks (GAN). <br />
 → investigation of Deep Multitask Architectures for Action Recognition in Surveillance Videos using 3D Convolutions, Long Short-Term Memories (LSTM), multiple Frame-Rate Analysis and Graph Neural Networks (GNN).
 
-<a name="jetson"></a> Deep Learning Deployment on Jetson Embedded GPUs
+<!-- <a name="jetson"></a> Deep Learning Deployment on Jetson Embedded GPUs
 ------
 The analysis of the behavior of individuals in crowds or groups of people in public places has gained enormously in importance, for example through distance bids. Pedestrian detection plays here a key role and deep learning can be used to construct accurate state-of-the-art detectors. However crowd analysis with elevated camera placement and large field of view remain highly challenging.
 In addition, deploying such models on embedded platforms with low energy budget often fails to fulfill real-time inference requirements, especially for high-resolution input images.
 To address these challenges I focus on the design and deployment of Deep Neural Networks for resource-constrained smart cameras on-device processing. 
+
+-->
 
 {: .text-justify}
 
