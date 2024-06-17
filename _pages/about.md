@@ -23,7 +23,7 @@ Open Positions for Students
 I'm always looking for students supporting me with my research. Some currently available topics are listed below. Topics for thesis or "Hiwi" positions are not limited to those below, so don't hesitate to ask me for other related positions.<br>
 
 → [See openings](https://jobs.fraunhofer.de/search/?createNewAlert=false&q=cormier&locationsearch=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=&optionsFacetsDD_customfield5=&optionsFacetsDD_customfield4=IOSB+-+Optronik%2C+Systemtechnik+und+Bildauswertung)
-)<br>
+<br>
 
 ---
 
