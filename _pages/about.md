@@ -22,16 +22,8 @@ Open Positions for Students
 ======
 I'm always looking for students supporting me with my research. Some currently available topics are listed below. Topics for thesis or "Hiwi" positions are not limited to those below, so don't hesitate to ask me for other related positions.<br>
 
-
-<a name="WS2022"></a>  WS2022
-------
-→ [Image and Video Annotation (German)](https://mickaelcormier.github.io/files/opening/20200622_hiwi_annotation_cormier.pdf) (Hiwi)<br>
-→ [Implementation of Complex Annotation Processes in Web Backend (German)](https://mickaelcormier.github.io/files/opening/20220803_ba_ap_cormier.pdf) (BA/MA)<br>
-→ [Interactive Annotation in Multi-Camera System for 3D Human Pose Estimation (German)](https://mickaelcormier.github.io/files/opening/20220803_ma_multicamera_cormier.pdf) (MA)<br>
-→ [Web Frontend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20220808_hiwi_frontend_cormier.pdf) (Hiwi)<br>
-→ [Web Backend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20220808_hiwi_backend_cormier.pdf) (Hiwi)<br>
-→ [Internship Web Frontend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20200914_praxis_frontend_cormier.pdf) (Praxissemester / BA)<br>
-→ [Internship Web Backend / Fullstack Development for a Deep Learning Annotations Tool (German)](https://mickaelcormier.github.io/files/opening/20200914_praxis_backend_cormier.pdf) (Praxissemester / BA)<br>
+→ [See openings](https://jobs.fraunhofer.de/search/?createNewAlert=false&q=cormier&locationsearch=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=&optionsFacetsDD_customfield5=&optionsFacetsDD_customfield4=IOSB+-+Optronik%2C+Systemtechnik+und+Bildauswertung)
+)<br>
 
 ---
 
